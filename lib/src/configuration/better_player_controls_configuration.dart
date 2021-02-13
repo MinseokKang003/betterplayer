@@ -165,7 +165,7 @@ class BetterPlayerControlsConfiguration {
   final Color backgroundColor;
 
   const BetterPlayerControlsConfiguration({
-    this.timeList = [],
+    this.timeList,
     this.controlBarColor = Colors.black87,
     this.textColor = Colors.white,
     this.iconsColor = Colors.white,
